@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SofaChasaniWibisono-source&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
-  <img src="https://img.shields.io/badge/Main%20Focus-Data%20Analysis%20%7C%20Data Science-blueviolet?style=flat&logo=rocket" alt="Focus" />
+  <img src="https://img.shields.io/badge/Main%20Focus-Data%20Analysis%20%7C%20Data%20Science-blueviolet?style=flat&logo=rocket" alt="Focus" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ An analytical mind passionate about turning raw data into actionable insights. C
 ### 🐍 Data Science & Machine Learning
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="googlecolab" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="googlecolab" width="40" height="40"/>
 </p>
 
 ---
