@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SofaChasaniWibisono-source&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
-  <img src="https://img.shields.io/badge/Main%20Focus-Data%20Analysis%20%7C%20ML-blueviolet?style=flat&logo=rocket" alt="Focus" />
+  <img src="https://img.shields.io/badge/Main%20Focus-Data%20Analysis%20%7C%20Data Science-blueviolet?style=flat&logo=rocket" alt="Focus" />
 </p>
 
 ---
