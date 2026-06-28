@@ -22,9 +22,6 @@ An analytical mind passionate about turning raw data into actionable insights. C
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="googlecolab" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041ba66e950cedd44d12fed02a22f/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="scikit-learn" width="40" height="40"/>
 </p>
 
 ### 📈 Data Analysis & Databases
