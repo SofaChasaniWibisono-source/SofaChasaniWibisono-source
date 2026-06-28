@@ -1,4 +1,4 @@
-# Hi there, I'm Wibi ! 👋 🚀
+# Hi there, I'm Wibi  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
@@ -8,10 +8,10 @@
 ---
 
 ## 📊 About Me
-Information Systems student at Universitas Ahmad Dahlan & Data Enthusiast. Passionate about analytics, currently transitioning my skills from Data Analysis to Data Science, Machine Learning, and Intelligent Systems.
+An analytical mind passionate about turning raw data into actionable insights. Currently an Information Systems student at Universitas Ahmad Dahlan, actively expanding my horizon from Data Analysis into Data Science and Machine Learning. I love uncovering hidden patterns, building predictive models, and telling stories through data.
 
-- 🔭 **Current Focus:** Data Analytics, Predictive Modeling, and Computer Vision.
-- 🌱 **Learning Journey:** Machine Learning frameworks, Deep Learning, and Database Management.
+- 🔭 **Current Focus:** Data Analytics & Computer Vision.
+- 🌱 **Learning Journey:** Predictive Modeling, Deep Learning, and Advanced Databases.
 - ⚡ **Fun Fact:** I look at rows and columns, but I see stories and future trends.
 
 ---
@@ -21,18 +21,18 @@ Information Systems student at Universitas Ahmad Dahlan & Data Enthusiast. Passi
 ### 🐍 Data Science & Machine Learning
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="googlecolab" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041ba66e950cedd44d12fed02a22f/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="scikit-learn" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="scikit-learn" width="40" height="40"/>
 </p>
 
-### 📈 Data Analysis & Visualization
+### 📈 Data Analysis & Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg" alt="excel" width="40" height="40"/> &nbsp;
+  <img src="https://img.shields.io/badge/Laragon-007ACC?style=flat&logo=laragon&logoColor=white" alt="laragon" height="40"/> &nbsp;
+  <img src="https://img.shields.io/badge/SQLyog-008080?style=flat&logo=databricks&logoColor=white" alt="sqlyog" height="40"/>
 </p>
 
 ---
