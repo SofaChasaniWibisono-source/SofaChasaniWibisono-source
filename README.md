@@ -28,7 +28,6 @@ An analytical mind passionate about turning raw data into actionable insights. C
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="excel" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="excel" height="40"/> &nbsp;
   <img src="https://img.shields.io/badge/Laragon-007ACC?style=flat&logo=laragon&logoColor=white" alt="laragon" height="40"/> &nbsp;
   <img src="https://img.shields.io/badge/SQLyog-008080?style=flat&logo=databricks&logoColor=white" alt="sqlyog" height="40"/>
 </p>
@@ -45,8 +44,6 @@ An analytical mind passionate about turning raw data into actionable insights. C
 
 ## 🤝 Connect with Me
 <p align="left">
-  <!-- GANTI teks 'YOUR-LINKEDIN' di bawah dengan nama unik profil LinkedIn kamu -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
-  <!-- GANTI teks 'YOUR-EMAIL@gmail.com' di bawah dengan alamat email kamu -->
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/sofa-chasani-wibisono-006352369" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
+  <a href="mailto:sofachasaniwibisono@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
