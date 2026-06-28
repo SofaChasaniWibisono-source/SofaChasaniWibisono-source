@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SofaChasaniWibisono-source&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
-  <img src="https://img.shields.io/badge/Main%20Focus-Data%20Science%20%7C%20ML-blueviolet?style=flat&logo=rocket" alt="Focus" />
+  <img src="https://img.shields.io/badge/Main%20Focus-Data%20Analysis%20%7C%20ML-blueviolet?style=flat&logo=rocket" alt="Focus" />
 </p>
 
 ---
@@ -18,18 +18,18 @@ An analytical mind passionate about turning raw data into actionable insights. C
 
 ## 🛠️ Tech Stack & Tools
 
-### 🐍 Data Science & Machine Learning
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="googlecolab" width="40" height="40"/> &nbsp;
-</p>
-
 ### 📈 Data Analysis & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="excel" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;
   <img src="https://img.shields.io/badge/Laragon-007ACC?style=flat&logo=laragon&logoColor=white" alt="laragon" height="40"/> &nbsp;
   <img src="https://img.shields.io/badge/SQLyog-008080?style=flat&logo=databricks&logoColor=white" alt="sqlyog" height="40"/>
+</p>
+
+### 🐍 Data Science & Machine Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="googlecolab" width="40" height="40"/> &nbsp;
 </p>
 
 ---
