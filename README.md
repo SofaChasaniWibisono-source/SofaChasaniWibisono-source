@@ -20,10 +20,10 @@ An analytical mind passionate about turning raw data into actionable insights. C
 
 ### 📈 Data Analysis & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="excel" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;
   <img src="https://img.shields.io/badge/Laragon-007ACC?style=flat&logo=laragon&logoColor=white" alt="laragon" height="40"/> &nbsp;
   <img src="https://img.shields.io/badge/SQLyog-008080?style=flat&logo=databricks&logoColor=white" alt="sqlyog" height="40"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="excel" height="40"/> &nbsp;
 </p>
 
 ### 🐍 Data Science & Machine Learning
