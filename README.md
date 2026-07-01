@@ -41,6 +41,8 @@ An analytical mind passionate about turning raw data into actionable insights. C
 | <img src="https://github.com/NutritionPlus.png" width="60" height="60" alt="Org Logo"/> | NutriScan | • Project Leader & AI Developer: Memimpin perancangan model AI menggunakan Computer Vision dan Python untuk pemindaian visual guna mengestimasi tinggi badan secara digital. |
 | <img src="https://github.com/Refocus-Team.png" width="60" height="60" alt="Org Logo"/> | ReFocus | • ----------------. |
 
+---
+
 ## 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SofaChasaniWibisono-source&show_icons=true&theme=tokyonight" alt="Stats" width="48%" />
