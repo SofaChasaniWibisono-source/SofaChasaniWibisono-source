@@ -37,8 +37,10 @@ An analytical mind passionate about turning raw data into actionable insights. C
 
 | Organization Logo | Organization Name | My Role & Contributions |
 | :---: | :--- | :--- |
-| <img src="https://github.com/Gateva-Team.png" width="60" height="60" alt="Org Logo"/> | **Nama Organisasi 1** | • Berperan sebagai Lead Developer / Data Analyst.<br>• Membangun sistem pendataan berbasis AI.<br>• Berkontribusi pada repositori utama proyek. |
-| <img src="https://github.com/NAMA_ORGANISASI_LAIN.png" width="60" height="60" alt="Org Logo"/> | **Nama Organisasi 2** | • Mengembangkan fitur visualisasi data.<br>• Melakukan data cleaning dan analisis tren pengguna. |
+| <img src="https://github.com/Gateva-Team.png" width="60" height="60" alt="Org Logo"/> | Web Gateva | • Backend Support Specialist: Bertanggung jawab dalam merancang struktur basis data,
+mengintegrasikan sistem backend. |
+| <img src="https://github.com/NutritionPlus.png" width="60" height="60" alt="Org Logo"/> | NutriScan | • Project Leader & AI Developer: Memimpin perancangan model AI menggunakan Computer Vision dan Python untuk pemindaian visual guna mengestimasi tinggi badan secara digital. |
+| <img src="https://github.com/Refocus-Team.png" width="60" height="60" alt="Org Logo"/> | ReFocus | • ----------------. |
 
 ## 📈 My GitHub Stats
 <p align="center">
