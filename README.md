@@ -46,7 +46,6 @@ An analytical mind passionate about turning raw data into actionable insights. C
 
 ## 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofaChasaniWibisono-source&show_icons=true&theme=tokyonight" alt="Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SofaChasaniWibisono-source&theme=tokyonight" alt="Streak" width="48%" />
 </p>
 
