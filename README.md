@@ -33,6 +33,12 @@ An analytical mind passionate about turning raw data into actionable insights. C
 </p>
 
 ---
+## 🏢 Organization & Contributions
+
+| Organization Logo | Organization Name | My Role & Contributions |
+| :---: | :--- | :--- |
+| <img src="https://github.com/Gateva-Team.png" width="60" height="60" alt="Org Logo"/> | **Nama Organisasi 1** | • Berperan sebagai Lead Developer / Data Analyst.<br>• Membangun sistem pendataan berbasis AI.<br>• Berkontribusi pada repositori utama proyek. |
+| <img src="https://github.com/NAMA_ORGANISASI_LAIN.png" width="60" height="60" alt="Org Logo"/> | **Nama Organisasi 2** | • Mengembangkan fitur visualisasi data.<br>• Melakukan data cleaning dan analisis tren pengguna. |
 
 ## 📈 My GitHub Stats
 <p align="center">
