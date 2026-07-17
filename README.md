@@ -41,6 +41,7 @@ An analytical mind passionate about turning raw data into actionable insights. C
 | <img src="https://github.com/Gateva-Team.png" width="60" height="60" alt="Gateva Logo"/> | Web Gateva | • Backend Support: Responsible for designing database structures, integrating backend systems. |
 | <img src="https://github.com/NutritionPlus.png" width="60" height="60" alt="NutriScan Logo"/> | NutriScan | • Project Leader & AI Developer: Leading the design of an AI model using Computer Vision and Python for visual scanning to digitally estimate height. |
 | <img src="https://github.com/Refocus-Team.png" width="60" height="60" alt="ReFocus Logo"/> | ReFocus | • Backend & frontend support: real-time service integration, gamification and points logic, streak system, Platform Channel connection for screen time monitoring, performance optimization, bug fixing, deprecation warnings cleanup, and finalizing all features to 0 analyzer issues. |
+| <img src="https://github.com/Si-Boni-apps-Team.png" width="60" height="60" alt="ReFocus Logo"/> | Si Boni | • Developer & System Architect: Fully responsible for technical aspects, designing code architecture (MVVM via Provider), implementing all interactive game mechanics logic, integrating accessibility features (*Text-to-Speech*). |
 
 ---
 
